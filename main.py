@@ -26,7 +26,7 @@ logger = logging.getLogger(__name__)
 #  إعدادات البوت
 # ══════════════════════════════════════════════════════════
 BOT_TOKEN = os.getenv(
-    "BOT_TOKEN", "8428112586:AAG8e8xBkHBQX-kJZzrrld2LcGtBneZwrsw"
+    "BOT_TOKEN", "8495856594:AAEASdXfZV4bouc39CcNqdcw80gP6FfFDUw"
 )
 OWNER_ID = int(os.getenv("OWNER_ID", "6668195885"))
 API_ID = int(os.getenv("API_ID", "32801472"))
